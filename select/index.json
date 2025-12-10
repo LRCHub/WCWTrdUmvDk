@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HurleyQueen",
+  "base_artist": "Bell Angel",
+  "createdAt": "2025-12-10T07:52:29.760954Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HurleyQueen (feat. Nozomi Kitay)",
+      "artist": "Bell Angel",
+      "has_synced": false,
+      "path": "select/pl_01_HurleyQueen_(feat._Nozomi_Kitay)_Bell_Angel.txt"
+    }
+  ]
+}
